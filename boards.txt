@@ -1647,7 +1647,7 @@ pixoesp32.name=PIXO Pixel ESP32
 
 pixoesp32.upload.tool=esptool
 pixoesp32.upload.maximum_size=1310720
-pixoesp32.upload.maximum_data_size=294912
+pixoesp32.upload.maximum_data_size=327680
 pixoesp32.upload.wait_for_upload_port=true
 
 pixoesp32.serial.disableDTR=true
